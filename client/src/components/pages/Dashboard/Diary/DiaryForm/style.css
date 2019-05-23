@@ -1,0 +1,128 @@
+.searchbutton{
+    background:#9b2727;
+    border-color:#9b2727;
+    font-size:1em;
+    padding-top:7px;
+    padding-bottom:7px;
+}
+
+.mealSubmit{
+    background:#9b2727;
+    border-color:#9b2727;
+}
+
+.deletefood{
+    background:#9b2727;
+    border-color:#9b2727;
+}
+
+.directionstext{
+    font-size:1.2em;
+    text-align:center;
+    margin-bottom:15px;
+}
+
+
+.diaryBody{
+    padding-top:30px;
+    padding-bottom:30px;
+    border-bottom:1px solid #ddd;
+}
+
+.mealForm{
+    margin:0px auto;
+}
+
+.diaryRowHeader{
+font-weight:bold;
+border-bottom:1px solid #ddd;
+font-size:1.0em;
+}
+
+
+.headerMeal{
+    margin-right:0px;
+}
+
+.headerDescr{
+    margin-right:0px;
+}
+
+.logRow{
+    margin-bottom:12px;
+}
+
+.loglabel{
+    margin-bottom:3px;
+    font-weight:600;
+    color:#000;
+}
+
+
+
+.formContain{
+background:#f7f7f7;
+padding:40px;
+padding-top:25px;
+padding-bottom:30px;
+border-radius:5px;
+margin-bottom:25px;
+/* border:1px solid#ddd; */
+box-shadow:0px 0px 3px 2px #eaeaea;
+}
+
+
+
+@media (min-width:1100px) {
+
+    .headerMeal{
+        margin-right:7px;
+    }
+    
+    .headerDescr{
+        margin-right:7px;
+    }	
+    
+}
+
+
+
+
+@media (min-width:1280px) {
+
+    .headerMeal{
+        margin-right:15px;
+    }
+    
+    .headerDescr{
+        margin-right:20px;
+    }	
+    
+}
+
+
+
+@media (min-width:1600px) {
+
+	.headerMeal{
+        margin-right:29px;
+    }
+    
+    .headerDescr{
+        margin-right:29px;
+    }
+    
+}
+
+
+@media (min-width:1880px) {
+
+	.headerMeal{
+        margin-right:40px;
+    }
+    
+    .headerDescr{
+        margin-right:40px;
+    }
+    
+}

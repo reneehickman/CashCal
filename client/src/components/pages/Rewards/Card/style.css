@@ -1,0 +1,27 @@
+.cardWrapper{
+    display:inline-block;
+    vertical-align:top;
+}
+
+
+.cardtitle{
+    padding-left:0;
+    font-weight:bold;
+}
+
+
+.linkbtn{
+    background:#9b2727;
+    border-color:#9b2727;
+}
+
+
+.rewardsbtns{
+padding:3px; 
+margin:2px;
+width:47%;
+}
+
+.buttonscontain{
+   text-align:center;
+}
