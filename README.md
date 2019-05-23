@@ -21,10 +21,10 @@ Rewards
 
 
 ## Created by (Roles):
-[`Chris Cass`](https://github.com/crcass) - (Backend, Component functionality)
-[`Renee Hickman`](https://github.com/reneehickman) - (Project Structure/Component Setup, Compiling, Design, Styling)
-[`Taylor Stiger`](https://github.com/TaylorFStiger) - (Food Search API in Diary Component)
-[`Sally Alrawi`](https://github.com/sallyalrawi) - (Firebase Authentication)
+* [`Chris Cass`](https://github.com/crcass) - (Backend, Component functionality)
+* [`Renee Hickman`](https://github.com/reneehickman) - (Project Structure/Component Setup, Compiling, Design, Styling)
+* [`Taylor Stiger`](https://github.com/TaylorFStiger) - (Food Search API in Diary Component)
+* [`Sally Alrawi`](https://github.com/sallyalrawi) - (Firebase Authentication)
 
 
 ## Technnologies Used:
