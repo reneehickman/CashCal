@@ -33,7 +33,7 @@ Rewards
 - React-DOM
 - React-Router
 - NodeJS
-- Express Serve
+- Express 
 - Axios
 - MySQL Database
 - Babel
