@@ -7,7 +7,7 @@ A play on the phrase “cash cow”, CashCal is a Calorie and Weight Tracker app
 
 
 
-Click [here](https://lit-wave-29084.herokuapp.com/) to view the deployed app on Heroku.
+Click [here](https://polar-tor-81214.herokuapp.com/) to view the deployed app on Heroku.
 
 ## Screen Shots
 Home

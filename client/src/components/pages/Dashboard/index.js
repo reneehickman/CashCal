@@ -119,23 +119,21 @@ class Dashboard extends Component {
       };
 
 
-  // async loadDiary(userId) {
-
-    loadDiary = async userId => {
+  async loadDiary(userId) {
     try {
       const response = await getDiary(userId);
       this.setState({ diary: response.data });
       const { diary } = this.state;
       let { userCalories } = this.state;
       this.updateCalories(diary, userCalories);
-      // diary.forEach(entry => {
-      //   const today = formatDate(new Date(Date.now()).toString());
-      //   const diaryDate = formatDate(new Date(entry.createdAt).toString());
-      //   if (diaryDate === today) {
-      //     userCalories -= entry.calories;
-      //   }
-      // });
-      // this.setState({ userCalories });
+      diary.forEach(entry => {
+        const today = formatDate(new Date(Date.now()).toString());
+        const diaryDate = formatDate(new Date(entry.createdAt).toString());
+        if (diaryDate === today) {
+          userCalories -= entry.calories;
+        }
+      });
+      this.setState({ userCalories });
     } catch (error) {
       throw error;
     }
