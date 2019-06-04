@@ -17,7 +17,7 @@ Dashboard
 ![Dashboard](client/public/images/dashboard.JPG)
 
 Rewards
-![Rewards](client/public/images/rewards.jpg)
+![Rewards](client/public/images/rewards.JPG)
 
 
 ## Created by (Roles):
